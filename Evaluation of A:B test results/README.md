@@ -1,5 +1,5 @@
 ## Принятие решений в бизнесе 
-[jpynb]
+[jpynb](https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Evaluation%20of%20A:B%20test%20results/evaluation%20of%20A:B%20test%20results_Tkachenko.ipynb)
 
 ### Описание
 Используя данные интернет-магазина приоритезировать гипотезы, оценить результаты A/B-тестирования различными методами
