@@ -1,5 +1,6 @@
 ## Сборный проект
-[ipnyb] (https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Prefab%20project/prefab%20project_Tkachenko.ipynb)
+[ipnyb](https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Prefab%20project/prefab%20project_Tkachenko.ipynb)
+
 ### Описание 
 Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности,
 определяющие успешность игры. Составить портреты пользователей каждого региона. Проверить гипотезы о рейтингах платформ.
