@@ -1,4 +1,6 @@
 ## Принятие решений в бизнесе 
+Статус проекта: Завершен
+
 [jpynb](https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Evaluation%20of%20A:B%20test%20results/evaluation%20of%20A:B%20test%20results_Tkachenko.ipynb)
 
 ### Описание
