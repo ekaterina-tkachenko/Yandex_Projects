@@ -1,5 +1,7 @@
 ## Сборный проект_2
+Статус проекта: Завершен
 [jpynb](https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Prefab%20project_2/prefab%20project_2_Tkachenko.ipynb)
+[html]()
 
 ### Описание
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, 
