@@ -1,4 +1,6 @@
 ## Сборный проект
+Статус проекта: Завершен
+
 [ipnyb](https://github.com/ekaterina-tkachenko/Yandex_Projects/blob/main/Prefab%20project/prefab%20project_Tkachenko.ipynb)
 
 ### Описание 
